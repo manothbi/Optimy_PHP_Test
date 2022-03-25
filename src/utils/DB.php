@@ -11,7 +11,7 @@ class DB
 	{
 		$dsn = 'mysql:dbname=phptest;host=127.0.0.1;port=3308';
 		$user = 'root';
-		$password = 'root1981';
+		$password = '';
 
 
 		try {
